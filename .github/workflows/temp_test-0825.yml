@@ -68,4 +68,5 @@ jobs:
           app-name: 'test-0825'
           slot-name: 'Production'
           package: .
+          clean: true
           
